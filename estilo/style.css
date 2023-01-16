@@ -16,6 +16,11 @@ body {
     background-position: center bottom;
 }
 
+a#link3{
+    text-decoration: none;
+    color: rgb(26, 49, 255)
+}
+
 header{
     text-align: center;
     font-variant: small-caps;
